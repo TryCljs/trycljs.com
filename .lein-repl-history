@@ -1,0 +1,4 @@
+(ns trycljs.handler)
+(ns trycljs.repl)
+(start-server)
+quit
